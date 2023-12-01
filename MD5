@@ -1,0 +1,8 @@
+b22e3d3f2cb9f32ecd511975ee9a189b *DESCRIPTION
+450ec6a2037ecd459ccf04d5f0d39ec2 *NAMESPACE
+1e9f07bfb1145228730bf3dad99a4a32 *R/get_oc_TITE_QuasiBOIN.R
+44dac3d1986d4d7a2afdc68cde62ef28 *R/next_TITE_QuasiBOIN.R
+3eebc97e1a5906bee13fab7aaa2707c5 *R/select_mtd_TITE_QuasiBOIN.R
+38805adacbac02debcfbdb2fd5e0c9df *man/get_oc_TITE_QuasiBOIN.Rd
+9a994c80bdfc2f858d0dffe3d0e3bfdb *man/next_TITE_QuasiBOIN.Rd
+09945501408a6f20ad5dfd5384778944 *man/select_mtd_TITE_QuasiBOIN.Rd
